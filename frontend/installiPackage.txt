@@ -1,0 +1,3 @@
+react-router-dom=multiple routes, react-toastify=toast notification
+
+tailwindcss=> goto website vite + tailwind
